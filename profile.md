@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajeevPrajapat
 - 👀 I’m interested in computer science 
-- 🌱 I’m currently learning BCA dS
+- 🌱 I’m currently learning BCA (data science)
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
